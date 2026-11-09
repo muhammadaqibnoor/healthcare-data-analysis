@@ -2,6 +2,14 @@
 
 An educational Data Science and Machine Learning project that analyzes hospital encounter data and builds machine learning models to estimate the likelihood of diabetes-related hospital readmission within 30 days.
 
+
+## 🚀 Live Dashboard
+
+Explore the interactive Healthcare Readmission Prediction Dashboard:
+
+[Open Live Streamlit App](https://healthcare-data-analysis-aunf95jamkmvn2r8vvgjfq.streamlit.app/)
+
+
 ## Project Overview
 
 This project uses the **Diabetes 130-US Hospitals dataset (1999–2008)** from the UCI Machine Learning Repository.
